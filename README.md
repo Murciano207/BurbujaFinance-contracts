@@ -1,8 +1,8 @@
-# TTSwap
-TTSwap is a DEX (decentralized exchange) on the ThunderCore blockchain based on the model: Automated Market-Making (AMM) inspired by [Uniswap](https://uniswap.org/docs/v1).
+# BurbujaFinance
+BurbujaFinance is a DEX (decentralized exchange) on the ThunderCore blockchain based on the model: Automated Market-Making (AMM) inspired by [Uniswap](https://uniswap.org/docs/v1).
 ## Information
 
-- Website [TTSwap](https://ttswap.space)
+- Website [BurbujaFinance](http://BurbujaFinance.tk)
 - [Address of Factory](https://viewblock.io/thundercore/address/0xce393b11872ee5020828e443f6ec9de58cd8b6c5?tab=code)
 - [Implementation of Exchange](https://viewblock.io/thundercore/address/0x7c1e1a39703ab5c21b5537d4093ccd1117ded405?tab=code)
 
